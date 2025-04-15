@@ -1,0 +1,8 @@
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+requests==2.31.0
+langdetect==1.0.9
+dateparser==1.2.0
+python-dateutil==2.8.2
+pytz==2024.1
+shortuuid==1.0.11 
